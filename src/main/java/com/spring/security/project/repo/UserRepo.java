@@ -1,4 +1,4 @@
-﻿package com.spring.security.project.repo;
+package com.spring.security.project.repo;
 
 import com.spring.security.project.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
